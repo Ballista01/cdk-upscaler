@@ -1,0 +1,19 @@
+{
+  "name": "cdk-workshop-lambda-js",
+  "version": "0.1.0",
+  "description": "javascript lambdas for the cdk-workshop",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "javascript"
+  ],
+  "author": "ballista01",
+  "license": "LGPL-3.0-or-later",
+  "devDependencies": {
+    "aws-sdk": "^2.1176.0"
+  }
+}
